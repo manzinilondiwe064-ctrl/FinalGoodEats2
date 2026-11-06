@@ -3,8 +3,12 @@ Change Log
 Changes implemented since Part 2
 
  Problems in Part 2
-- Menu pictures did not match the dish names.
-- The chef could not add items to the menu.
+- Chef could NOT add a new item - it did not save / did not appear.
+- Chef could NOT edit an item - changes did not update menu.
+- Chef could NOT delete an item - item stayed in menu.
+- Many menu items were missing - menu was incomplete.
+- Some pictures / icons were missing - blank / broken images.
+- Design did not match with the thing sold
 - The app was not fully functional.
 - The app was not user friendly.
 
