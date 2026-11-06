@@ -12,6 +12,7 @@ Changes implemented since Part 2
 - The app was not fully functional.
 - The app was not user friendly.
 
+Fixed
  1. Manage menu items (chef)
 - Added: a "Chef – Add / Edit / Delete" screen where the chef can add a dish with a name, description, price, optional picture link (image URL) and course (Starter, Main Course, Dessert or Drinks). This fixes the Part 2 problem where the chef could not add items.
 - Added: an Edit button on every dish. It opens the form pre-filled with the dish's current details and picture preview, so any field can be updated.
